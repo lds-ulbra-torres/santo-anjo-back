@@ -1,0 +1,8 @@
+{
+  "name": "santo-anjo-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lds-ulbra-torres/santo-anjo-back.git",
+  "author": "brunocesarangst <bruno.angst@rede.ulbra.br>",
+  "license": "MIT"
+}
